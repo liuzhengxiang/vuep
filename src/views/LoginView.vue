@@ -1,15 +1,14 @@
 <template>
-  <div id="app">
-  app
-  <hr>
-  <router-view></router-view>
-  </div>
+    <div>登录组件</div>
 </template>
 
 <script>
 export default {
+
 }
+
 </script>
 
 <style>
+
 </style>
